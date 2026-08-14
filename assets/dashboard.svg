@@ -151,7 +151,7 @@
 <line x1="22" y1="78" x2="448" y2="78" stroke="#21262d" stroke-width="1"/>
 <g transform="translate(22,92) scale(0.5833333333333334)"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2Zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93Zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39Z" fill="#8b949e"/></g>
 <text x="42" y="104" font-size="11" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal">Global Rank:</text>
-<text x="124" y="104" font-size="12" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold">#407,563</text>
+<text x="124" y="104" font-size="12" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold">#407,964</text>
 <g transform="translate(245.0,92) scale(0.5833333333333334)"><path d="M3 13h2v8H3v-8Zm4-4h2v12H7V9Zm4-4h2v16h-2V5Zm4 8h2v8h-2v-8Zm4-6h2v14h-2V7Z" fill="#8b949e"/></g>
 <text x="265.0" y="104" font-size="11" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal">Top:</text>
 <text x="347.0" y="104" font-size="12" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold">46.9%</text>
@@ -206,22 +206,22 @@
 <g id="dash_section_diff" transform="translate(16, 232) scale(0.96889, 0.80769)">
 
 <g class="phase p1">
-<circle cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#00b8a3" stroke-opacity="0.22" stroke-width="8" stroke-dasharray="63.7 344.8" stroke-dashoffset="-0.0" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
-<circle cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#ffc01e" stroke-opacity="0.22" stroke-width="8" stroke-dasharray="139.4 269.0" stroke-dashoffset="-77.7" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
-<circle cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#ff375f" stroke-opacity="0.22" stroke-width="8" stroke-dasharray="63.9 344.5" stroke-dashoffset="-231.0" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
+<circle cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#00b8a3" stroke-opacity="0.22" stroke-width="8" stroke-dasharray="63.6 344.8" stroke-dashoffset="-0.0" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
+<circle cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#ffc01e" stroke-opacity="0.22" stroke-width="8" stroke-dasharray="139.4 269.0" stroke-dashoffset="-77.6" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
+<circle cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#ff375f" stroke-opacity="0.22" stroke-width="8" stroke-dasharray="63.9 344.5" stroke-dashoffset="-231.1" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
 <circle class="rise-easy-comb" cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#00b8a3" stroke-width="8" stroke-dasharray="0.0 408.4" stroke-dashoffset="-0.0" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
-<circle class="rise-med-comb" cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#ffc01e" stroke-width="8" stroke-dasharray="0.0 408.4" stroke-dashoffset="-77.7" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
-<circle class="rise-hard-comb" cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#ff375f" stroke-width="8" stroke-dasharray="0.0 408.4" stroke-dashoffset="-231.0" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
-<text x="135.0" y="103.0" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" text-anchor="middle"><tspan font-size="22" font-weight="bold" fill="#e6edf3">349</tspan><tspan font-size="14" font-weight="normal" fill="#8b949e">/4,018</tspan></text>
+<circle class="rise-med-comb" cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#ffc01e" stroke-width="8" stroke-dasharray="0.0 408.4" stroke-dashoffset="-77.6" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
+<circle class="rise-hard-comb" cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#ff375f" stroke-width="8" stroke-dasharray="0.0 408.4" stroke-dashoffset="-231.1" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
+<text x="135.0" y="103.0" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" text-anchor="middle"><tspan font-size="22" font-weight="bold" fill="#e6edf3">349</tspan><tspan font-size="14" font-weight="normal" fill="#8b949e">/4,019</tspan></text>
 <text x="135.0" y="123.0" font-size="12" fill="#00b8a3" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="600" text-anchor="middle">✔ Solved</text>
 </g>
 <g class="phase p2">
-<circle cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#00b8a3" stroke-opacity="0.22" stroke-width="8" stroke-dasharray="63.7 344.8" stroke-dashoffset="-0.0" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
-<circle cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#ffc01e" stroke-opacity="0.22" stroke-width="8" stroke-dasharray="139.4 269.0" stroke-dashoffset="-77.7" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
-<circle cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#ff375f" stroke-opacity="0.22" stroke-width="8" stroke-dasharray="63.9 344.5" stroke-dashoffset="-231.0" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
+<circle cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#00b8a3" stroke-opacity="0.22" stroke-width="8" stroke-dasharray="63.6 344.8" stroke-dashoffset="-0.0" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
+<circle cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#ffc01e" stroke-opacity="0.22" stroke-width="8" stroke-dasharray="139.4 269.0" stroke-dashoffset="-77.6" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
+<circle cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#ff375f" stroke-opacity="0.22" stroke-width="8" stroke-dasharray="63.9 344.5" stroke-dashoffset="-231.1" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
 <circle cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#00b8a3" stroke-width="8" stroke-dasharray="11.4 397.0" stroke-dashoffset="-0.0" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
-<circle cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#ffc01e" stroke-width="8" stroke-dasharray="9.6 398.8" stroke-dashoffset="-77.7" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
-<circle cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#ff375f" stroke-width="8" stroke-dasharray="2.1 406.3" stroke-dashoffset="-231.0" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
+<circle cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#ffc01e" stroke-width="8" stroke-dasharray="9.6 398.8" stroke-dashoffset="-77.6" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
+<circle cx="135.0" cy="105.0" r="65.0" fill="none" stroke="#ff375f" stroke-width="8" stroke-dasharray="2.1 406.3" stroke-dashoffset="-231.1" stroke-linecap="round" transform="rotate(140 135.0 105.0)"/>
 <text x="135.0" y="103.0" font-size="22" fill="#e6edf3" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold" text-anchor="middle">8.7%</text>
 <text x="135.0" y="123.0" font-size="12" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="600" text-anchor="middle">Acceptance</text>
 </g>
@@ -251,7 +251,7 @@
 <text x="345.0" y="63" font-size="12" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold" text-anchor="middle">172/958</text>
 <rect x="265" y="84" width="160" height="44" rx="8" fill="#21262d" fill-opacity="0.5" stroke="#30363d" stroke-width="0.5"/>
 <text x="345.0" y="100" font-size="12" fill="#ffc01e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold" text-anchor="middle">Med.</text>
-<text x="345.0" y="117" font-size="12" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold" text-anchor="middle">145/2098</text>
+<text x="345.0" y="117" font-size="12" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold" text-anchor="middle">145/2099</text>
 <rect x="265" y="138" width="160" height="44" rx="8" fill="#21262d" fill-opacity="0.5" stroke="#30363d" stroke-width="0.5"/>
 <text x="345.0" y="154" font-size="12" fill="#ff375f" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold" text-anchor="middle">Hard</text>
 <text x="345.0" y="171" font-size="12" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold" text-anchor="middle">32/962</text>
@@ -685,6 +685,7 @@
 <rect x="780" y="105" width="11" height="11" rx="2" fill="#0e4429"><title>Aug 11, 2026: 1 submission</title></rect>
 <rect x="780" y="119" width="11" height="11" rx="2" fill="#0e4429"><title>Aug 12, 2026: 1 submission</title></rect>
 <rect x="780" y="133" width="11" height="11" rx="2" fill="#161b22"><title>Aug 13, 2026: 0 submissions</title></rect>
+<rect x="780" y="147" width="11" height="11" rx="2" fill="#161b22"><title>Aug 14, 2026: 0 submissions</title></rect>
 <text x="629" y="197" font-size="9" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal">Less</text>
 <rect x="661" y="188" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="675" y="188" width="11" height="11" rx="2" fill="#0e4429"/>
