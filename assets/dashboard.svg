@@ -151,10 +151,10 @@
 <line x1="22" y1="78" x2="448" y2="78" stroke="#21262d" stroke-width="1"/>
 <g transform="translate(22,92) scale(0.5833333333333334)"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2Zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93Zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39Z" fill="#8b949e"/></g>
 <text x="42" y="104" font-size="11" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal">Global Rank:</text>
-<text x="124" y="104" font-size="12" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold">#407,964</text>
+<text x="124" y="104" font-size="12" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold">#409,097</text>
 <g transform="translate(245.0,92) scale(0.5833333333333334)"><path d="M3 13h2v8H3v-8Zm4-4h2v12H7V9Zm4-4h2v16h-2V5Zm4 8h2v8h-2v-8Zm4-6h2v14h-2V7Z" fill="#8b949e"/></g>
 <text x="265.0" y="104" font-size="11" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal">Top:</text>
-<text x="347.0" y="104" font-size="12" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold">46.9%</text>
+<text x="347.0" y="104" font-size="12" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold">47.0%</text>
 <g transform="translate(22,116) scale(0.5833333333333334)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41L9 16.17Z" fill="#8b949e"/></g>
 <text x="42" y="128" font-size="11" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal">Total Solved:</text>
 <text x="124" y="128" font-size="12" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold">350</text>
@@ -686,6 +686,7 @@
 <rect x="780" y="119" width="11" height="11" rx="2" fill="#161b22"><title>Aug 19, 2026: 0 submissions</title></rect>
 <rect x="780" y="133" width="11" height="11" rx="2" fill="#0e4429"><title>Aug 20, 2026: 1 submission</title></rect>
 <rect x="780" y="147" width="11" height="11" rx="2" fill="#161b22"><title>Aug 21, 2026: 0 submissions</title></rect>
+<rect x="780" y="161" width="11" height="11" rx="2" fill="#161b22"><title>Aug 22, 2026: 0 submissions</title></rect>
 <text x="629" y="197" font-size="9" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal">Less</text>
 <rect x="661" y="188" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="675" y="188" width="11" height="11" rx="2" fill="#0e4429"/>
