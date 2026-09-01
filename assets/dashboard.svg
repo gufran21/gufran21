@@ -271,26 +271,26 @@
 <line x1="22" y1="130" x2="438" y2="130" stroke="#21262d" stroke-width="1"/>
 <text x="22" y="154" font-size="13" fill="#e6edf3" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold">Monthly Activity</text>
 <line x1="37" y1="211.5" x2="423" y2="211.5" stroke="#21262d" stroke-width="0.5" stroke-dasharray="4,4"/>
-<path d="M 37.0,251.0 C 49.9,251.0 88.5,251.0 114.2,251.0 C 139.9,251.0 165.7,257.7 191.4,251.0 C 217.1,244.3 242.9,223.8 268.6,210.6 C 294.3,197.5 320.1,169.3 345.8,172.0 C 371.5,174.7 410.1,217.8 423.0,227.0 L 423.0,251.0 L 37.0,251.0 Z" fill="url(#monthly_chart_grad)"/>
-<path d="M 37.0,251.0 C 49.9,251.0 88.5,251.0 114.2,251.0 C 139.9,251.0 165.7,257.7 191.4,251.0 C 217.1,244.3 242.9,223.8 268.6,210.6 C 294.3,197.5 320.1,169.3 345.8,172.0 C 371.5,174.7 410.1,217.8 423.0,227.0" fill="none" stroke="#ffa116" stroke-width="2.5" stroke-linecap="round"/>
-<text x="37.0" y="267" font-size="10" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal" text-anchor="middle">Mar</text>
-<circle cx="37.0" cy="251.0" r="3.0" fill="#e6edf3"><title>Mar: 0 submissions</title></circle>
+<path d="M 37.0,251.0 C 49.9,251.0 88.5,257.7 114.2,251.0 C 139.9,244.3 165.7,223.8 191.4,210.6 C 217.1,197.5 242.9,169.3 268.6,172.0 C 294.3,174.7 320.1,213.8 345.8,227.0 C 371.5,240.1 410.1,247.0 423.0,251.0 L 423.0,251.0 L 37.0,251.0 Z" fill="url(#monthly_chart_grad)"/>
+<path d="M 37.0,251.0 C 49.9,251.0 88.5,257.7 114.2,251.0 C 139.9,244.3 165.7,223.8 191.4,210.6 C 217.1,197.5 242.9,169.3 268.6,172.0 C 294.3,174.7 320.1,213.8 345.8,227.0 C 371.5,240.1 410.1,247.0 423.0,251.0" fill="none" stroke="#ffa116" stroke-width="2.5" stroke-linecap="round"/>
+<text x="37.0" y="267" font-size="10" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal" text-anchor="middle">Apr</text>
+<circle cx="37.0" cy="251.0" r="3.0" fill="#e6edf3"><title>Apr: 0 submissions</title></circle>
 <text x="37.0" y="244.0" font-size="9" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="500" text-anchor="middle">0</text>
-<text x="114.2" y="267" font-size="10" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal" text-anchor="middle">Apr</text>
-<circle cx="114.2" cy="251.0" r="3.0" fill="#e6edf3"><title>Apr: 0 submissions</title></circle>
+<text x="114.2" y="267" font-size="10" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal" text-anchor="middle">May</text>
+<circle cx="114.2" cy="251.0" r="3.0" fill="#e6edf3"><title>May: 0 submissions</title></circle>
 <text x="114.2" y="244.0" font-size="9" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="500" text-anchor="middle">0</text>
-<text x="191.4" y="267" font-size="10" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal" text-anchor="middle">May</text>
-<circle cx="191.4" cy="251.0" r="3.0" fill="#e6edf3"><title>May: 0 submissions</title></circle>
-<text x="191.4" y="244.0" font-size="9" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="500" text-anchor="middle">0</text>
-<text x="268.6" y="267" font-size="10" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal" text-anchor="middle">Jun</text>
-<circle cx="268.6" cy="210.6" r="3.0" fill="#e6edf3"><title>Jun: 47 submissions</title></circle>
-<text x="268.6" y="203.6413043478261" font-size="9" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="500" text-anchor="middle">47</text>
-<text x="345.8" y="267" font-size="10" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal" text-anchor="middle">Jul</text>
-<circle cx="345.8" cy="172.0" r="4.5" fill="#ffa116" filter="url(#dot_glow)"><title>Jul: 92 submissions</title></circle>
-<text x="345.8" y="163.0" font-size="10" fill="#ffa116" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold" text-anchor="middle">92</text>
-<text x="423.0" y="267" font-size="10" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal" text-anchor="middle">Aug</text>
-<circle cx="423.0" cy="227.0" r="3.0" fill="#e6edf3"><title>Aug: 28 submissions</title></circle>
-<text x="423.0" y="219.95652173913044" font-size="9" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="500" text-anchor="middle">28</text>
+<text x="191.4" y="267" font-size="10" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal" text-anchor="middle">Jun</text>
+<circle cx="191.4" cy="210.6" r="3.0" fill="#e6edf3"><title>Jun: 47 submissions</title></circle>
+<text x="191.4" y="203.6413043478261" font-size="9" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="500" text-anchor="middle">47</text>
+<text x="268.6" y="267" font-size="10" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal" text-anchor="middle">Jul</text>
+<circle cx="268.6" cy="172.0" r="4.5" fill="#ffa116" filter="url(#dot_glow)"><title>Jul: 92 submissions</title></circle>
+<text x="268.6" y="163.0" font-size="10" fill="#ffa116" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold" text-anchor="middle">92</text>
+<text x="345.8" y="267" font-size="10" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal" text-anchor="middle">Aug</text>
+<circle cx="345.8" cy="227.0" r="3.0" fill="#e6edf3"><title>Aug: 28 submissions</title></circle>
+<text x="345.8" y="219.95652173913044" font-size="9" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="500" text-anchor="middle">28</text>
+<text x="423.0" y="267" font-size="10" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal" text-anchor="middle">Sep</text>
+<circle cx="423.0" cy="251.0" r="3.0" fill="#e6edf3"><title>Sep: 0 submissions</title></circle>
+<text x="423.0" y="244.0" font-size="9" fill="#c9d1d9" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="500" text-anchor="middle">0</text>
 </g>
 </g>
 <rect x="16" y="458" width="888" height="220" rx="10" fill="#21262d" fill-opacity="0.35" stroke="#30363d" stroke-width="0.8"/>
@@ -682,6 +682,7 @@
 <rect x="766" y="161" width="11" height="11" rx="2" fill="#161b22"><title>Aug 29, 2026: 0 submissions</title></rect>
 <rect x="780" y="77" width="11" height="11" rx="2" fill="#161b22"><title>Aug 30, 2026: 0 submissions</title></rect>
 <rect x="780" y="91" width="11" height="11" rx="2" fill="#161b22"><title>Aug 31, 2026: 0 submissions</title></rect>
+<rect x="780" y="105" width="11" height="11" rx="2" fill="#161b22"><title>Sep 01, 2026: 0 submissions</title></rect>
 <text x="629" y="197" font-size="9" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal">Less</text>
 <rect x="661" y="188" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="675" y="188" width="11" height="11" rx="2" fill="#0e4429"/>
